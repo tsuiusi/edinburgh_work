@@ -9,7 +9,7 @@ A finite collection of linear equations in the variables x1, x2, ...xn is called
  
 2x1 - 3x2 + 5x3 = 7 is a linear equation.
 
-Given a linear equation a1x1 + a2x2 + ...anxn = b, a sequence of s1, s2 ...sn of n numbers is called a solution to the equation of a1s1 + a2s2 + ...anon = b
+Given a linear equation a1x1 + a2x2 + ...anxn = b, a sequence of s1, s2 ...sn of n numbers is called a solution to the equation of a1s1 + a2s2 + ...ansn = b
 
 A system that has no solution is *inconsistent*, whereas a system with at least one solution is *consistent*.
 
