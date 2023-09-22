@@ -1,6 +1,5 @@
 # Biology 2B: Genetics & Evolution
 ## Dr Anne Davidson
-## Ask the lecturers for the course schedule and see if I can switch back from meteorology
 
 ### Eukaryotic DNA
 * Eukaryotic supercoiled DNA (coiling the coils) is stabilized by nucleosomes, which contain DNA wrapped around histones
