@@ -47,6 +47,27 @@ y = -11/3
 Every elementary row operation can be reversed by another elementary row operation of the same type:
 1. Interchanging 2 rows, reversed by interchanging them again.
 2. Multiplying a row by non-zero number then 1/(said number)
-3. Adding k*(row p) to a different row q is reversed by doing the opposite (???) (p≠q)
+3. Adding k x (row p) to a different row q is reversed by doing the opposite (???) (p≠q)
 
+### Continued from 22sep.md notes
+Cases for any SLE:
+1. No solution - when a row occurs in row-echelon form. System is inconsistent.
+2. Unique solution - when every row is a leading row
+3. Infinitely many solutions - when the system is consistent and there is at least one nonleading variable, so at least one parameter is involved.
+
+A SLE is called *homogeneous* if the constant terms are 0.
+If the solution for the system is a zero matrix, then the solution is called *trivial*.
+Any solution with at least one nonzero value is called a nontrivial solution.
+
+## Comprehensions
+identity element, associative, commutative, type, etc // no relation to this
+
+
+
+Any nonzero scalar multiple of a basic solution will still be called a basic solution.
+
+
+Let A be an m × n matrix of rank r, and consider the homogeneous system in n variables with A as coefficient matrix. Then:
+1. The system has exactly n − r basic solutions, one for each parameter. 
+2. Every solution is a linear combination of these basic solutions.
 
