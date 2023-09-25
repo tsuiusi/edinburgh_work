@@ -11,7 +11,6 @@
 ## Chromatin
 Nucleosomes = DNA wrapped around histones. Nucleosomes are then wrapped around H1 histones.
 
-Chromatin = tightly packed, coiled nucleosomes.
 Euchromatin: The least condensed part of chromatin, most rich in genes.
 Heterochromatin: The most condensed part of chromatin, contains non-coding DNA and very few genes.
 
@@ -40,6 +39,19 @@ The Central Dogma of Molecular Biology: genetic information can be transferred f
 
 Coupled transcription occurs in prokaryotes due to their lack of nuclei so ribosomes can translate mRNA while they're being transcribed.
 
+## Transcription
+Monocistrionic: mRNA that encodes a single protein product
+Polycistronic: mRNA that encodes multiple proteins; contains the genes for multiple products
+
+Eukaryotes vs Prokaryotes:
+1. Transcription and translation are uncoupled in eukaryotes
+2. mRNA undergoes processing: 5'end capping, polydenylation, and splicing
+3. Eukaryotic mRNAs are generally monocistronic
+
+5'end Capping: the process of adding a modified G nucleotide of the pre-RNA molecule, which a) protects the mRNA from degradation b) involved in export of mature mRNA from the nucleus and c) helps initiate protein synthesis by binding to ribosomes.
+
+Polydenylation: the addition of a long chain of adenine nucleotides (called a poly(A) tail) to the 3'end of the mRNA molecule. It enhances the stability of the mRNA, aids in its transport from the nucleus to the cytoplasm, and appears to have a role in initiating protein synthesis.
+
 ### Genes encoding proteins
 Promoter: sequence upstream of gene/before start codon
 Terminator: sequence downstream of gene/after stop codon
@@ -57,6 +69,7 @@ They are mRNA that encode for more than one gene, and multiple genes are transcr
 RNA Polymerase in prokaryotes is a single enzyme transcribed in all genes. (Unlike eukaryotes which have three)
 
 Prokaryotic RNA polymerase consists of 5 subunits in the core enzyme (beta, beta prime, 2 alphas, omega) and a sigma factor.
-Sigma factor: a protein needed for initiation of transcription in bacteria. 
+Sigma factor: a protein needed for initiation of transcription in bacteria.
 
+![RNA Polymerase](polymerase.png)
  

@@ -1,19 +1,6 @@
 # Biology 2B: Genetics - Regulation of gene expression in eukaryotes
 ### Sveta Makovets
 
-## Transcription
-Monocistrionic: mRNA that encodes a single protein product
-Polycistronic: mRNA that encodes multiple proteins; contains the genes for multiple products
-
-Eukaryotes vs Prokaryotes:
-1. Transcription and translation are uncoupled in eukaryotes
-2. mRNA undergoes processing: 5'end capping, polydenylation, and splicing
-3. Eukaryotic mRNAs are generally monocistronic
-
-5'end Capping: the process of adding a modified G nucleotide of the pre-RNA molecule, which a) protects the mRNA from degradation b) involved in export of mature mRNA from the nucleus and c) helps initiate protein synthesis by binding to ribosomes.
-
-Polydenylation: 
-
 ## Model organisms
 Advantages of using model organisms:
 1. Easy to breed and maintain in labs
