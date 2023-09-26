@@ -72,4 +72,76 @@ Prokaryotic RNA polymerase consists of 5 subunits in the core enzyme (beta, beta
 Sigma factor: a protein needed for initiation of transcription in bacteria.
 
 ![RNA Polymerase](polymerase.png)
- 
+
+RNA Polymerase action:
+![RNA Polymerase action](polymeraseaction.png)
+
+## Protein concentrations
+Cells need different proteins in different amounts.
+
+In bacteria, how much of a protein is controlled by a differential expression of a gene at the level of transcription.
+What that means is that some genes are transcribed more than other genes.
+
+Unoccupied promoters + RNA polymerase <=> RNA pol. bound to promoter
+It is at equilibrium.
+
+In a strong promoter situation the equilibrium is shifted to the right, and in a weak promoter situation the equilibrium will be shifted to the left. 
+The amount of polymerase-bound promoter determines the amount of protein synthesized.
+
+## Promoter strength comparison
+The strength of a promoter can be measured using reporter genes (e.g GFP)
+
+Stronger promoter -> more GP mRNA -> more GP protein -> stronger glow
+
+The lacZ gene (beta galactosidase) can also be used and the amount of coloured product made can be used to quantize activity.
+
+## Gene regulation
+The regulation of gene expression is directed towards the final product, the protein.
+
+Ways to affect protein production:
+1. Transcriptional level - more transcription, more protein
+2. Posttranscriptional level - more stable RNA transcripts
+3. Translational level - premature termination, less protein
+4. Posttranslational level - prtotein degradation, activation/deactivation of protein by adding groups to it (phosphate, acetyl, sumo, ubiquitin, etc)
+
+Sigma factors are like Arceus's plates; you switch them out for different effects on the RNA polymerase and different genes are activated - *sigma factors recognize specific -35 and -10 sequences*
+
+The genes that are recognized by specific sigma factors are scattered throughout the genome but are grouped together as a *regulon*
+
+Regulon: group of specific genes that are activated by a certain sigma factor (e.g sigma H activates this group, H regulon and so so). Regulons are mutually exclusive sets.
+
+## Positive and negative gene regulation
+### Negative regulation:
+The default state of the gene is on, so transcription occurs normally. 
+However, when a repressor is released, the RNA polymerase can no longer bind onto the promoter and transcription halts.
+
+### Positive regulation:
+RNA polymerase has a weak natural binding to the promoter.
+The activator binds to the *activator binding site* and physically helps RNA polymerase to bind to the promoter region, which then allows transcription to occur.
+
+
+### Lac operon
+Operon: transcriptional unit with more than one gene.
+
+The lac operon has 3 - lacZ, lacY, and lacA
+They code for beta-galactosidase, permease, and transacetylase, which are used for lactose breakage, lactose transport, and (unknown). 
+
+The lac operon is regulated by LacI (lac repressor), which binds to the operator and prevents RNA polymerase binding to promoter. 
+
+A product of lactose is needed for the repressor to unbind, which means that lactase will only be made in the process of lactose.
+
+Transcription can be accelerated through the CAP  (catabolite activator protein) but requires cyclic AMP to bind to DNA. 
+
+```
+    Adenylyl Cyclase
+ATP -------------> cAMP
+	  T	
+       Glucose
+```
+
+cAMP production is catalyzed by adenylyl cyclase but is inhibited by glucose.
+
+### Allosteric regulation of proteins
+Allosteric regulation: the regulation of an enzyme or protein's activity by the binding of an effector molecule at somewhere that's not the active site.
+
+Both CAP and LacI are regulated by small molecules
