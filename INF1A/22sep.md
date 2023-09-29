@@ -1,19 +1,25 @@
 # INF1A: Lists and Comprehensions
-# Don Sannella
+### Don Sannella
 
 ## Lists
 The type of values in a list is first defined:
+
 nums :: [Int]
+
 chars :: [Char]
+
 funcs :: [Picture -> Picture] 
+
 secOrder :: [[Int]]
 
 The function 'head' takes the first element of a list whereas 'tail' takes the last element.
 'reverse' reverses it, 'null' checks if it's empty, 'length' returns the length, and ++ joins two lists.
 
 ++ is used like so:
+
 [a, b, c] ++ [d, e, f]
-> [a, b, c, d, e, f]
+
+\> [a, b, c, d, e, f]
 
 Function definitions on lists can be written the same way as normal functions:
 headEven :: [Int] -> Bool
@@ -100,9 +106,7 @@ Equality testing: The process of checking whether two values are equal.
 
 Differences:
 
-
-Differences:
-1. All elements in a list have the same type, sets can be more diverse.
+1. All elements in a list have the same type, sets can be more diverse. 
 2. Order of elements in a list is significant, not in sets. So the same set can be represented by different lists, not vice versa.
 3. Because of the previous property of lists, head and tail is important but not for sets.
 

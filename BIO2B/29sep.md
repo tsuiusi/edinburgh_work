@@ -69,5 +69,75 @@ Replicon: DNA replicated from a single origin
 Telomerase: the enzyme responsible for extending telomeres due to DNA loss in conventional replication.
 * Reverse transcriptase: converts RNA into DNA
 
+## Lecture notes
+Broken strands have **DNA ends**.
+
+### Linear DNA
+------->------------>			-------->   ---------->
+-------------------->			---------------------->
+Linear nicked				Linear gapped
+
+Nick: one of the two strands in sugar-phosphate backbone is broken, but no nucleotides are missing.
+Gap: one of the two strands in the sugar-phosphate backbone is broken and one or more nucleotides are missing. 
+
+Conventions: arrow on DNA strand has arrow pointing towards 3' end
+
+### Types of DNA ends:
+1. Blunt end: end is 齊頭 and no overhangs
+2. 3' overhang: 3' end is longer
+3. 5' overhang: 5' end is longer
 
 
+### Junctions
+3-way junction - replication fork
+
+4-way junction - recombination/repair intermediate
+
+### Enzymes
+
+Helicase:
+Helicase is the enzyme that unwinds DNA strands.
+
+They can be hexameric or monomeric, and can only go in one direction.
+
+If helicase is moving from 5' to 3' then it's called 5'->3', and vice versa. 
+
+|Prokaryotes|Eukaryotes|
+|-|-|
+|DnaB Helicase|MCM Helicase|
+
+
+Nuclease substrate specificity
+* Exonucleases cleave one nucleotide from the DNA end one at a time. 3'->5' cleave from the 3' end, and vice versa
+* Endonucleases do not need DNA end to break backbone
+* Only endonuclease can attack circular DNA
+
+EDTA is a **chelating agent** - it binds Mg2+ ions and makes them unavailable, which prevent nucleases from breaking the DNA as they need Mg2+ ions to work.
+
+Helicase can pair with exonucleases to break one strand specifically and produce DNA overhangs.
+
+Nucleases can be used in proofreading to remove wrong nucleotides.
+
+Polymerase:
+DNA polymerase -> DNA dependent (replicase) or RNA dependent (reverse transcriptase)
+
+RNA polymerase -> DNA dependent (transcriptase) or RNA dependent (RNA replicase)
+
+Nascent DNA: newly synthesized DNA
+
+**ALL POLYMERASES HAVE 5'->3' DIRECTIONALITY**
+
+Nascent DNA and nascent RNA can be made from both template DNA and RNA
+
+### Processivity of DNA
+The no. nucleotides that can be added to a DNA strand without dissociating.
+
+Processivity is higher in cells compared to in test tubes due to **clumps** that basically holds it together.
+
+Eukaryotic clumps are proteins called PCNA - Proliferative Cell Nuclear Antigen - and are essentially rings that hold the DNA together.
+
+E.coli has a beta-clump that's a protein holodimer, PCNA is a holotrimer.
+
+The clump itself is not an enzyme.
+
+![Clump](clump)
