@@ -140,4 +140,4 @@ E.coli has a beta-clump that's a protein holodimer, PCNA is a holotrimer.
 
 The clump itself is not an enzyme.
 
-![Clump](clump)
+![Clump](clump.png)
