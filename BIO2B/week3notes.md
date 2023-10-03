@@ -64,4 +64,36 @@ All can arise from erroneous DSB repair, and are common in cancer cells.
 ### ICL Repair and cancer connections
 * Not dangerous to cells unless they're replicating
 * Replication cannot be done if the two strands can't be unzipped
-* 
+
+## DNA damage response in bacteria
+### SOS Response:
+* Triggered by extensive DNA damage, usually replication errors or double stranded breaks
+* Excess ssDNA from DNA ends being degraded (see exonuclease) is detected and triggers the response
+
+SOS response is a transcription response that leads to activation of a set of genes for DNA repair and preventing cell division.
+
+So bacteria become long and becomes filamentous as a result.
+
+![Filamentous bacteria](filamentous.png)
+
+Response genes:
+1. Cell division inhibition (replication continues) -> filamentous cells
+2. Homologous recombination genes -> repair
+3. Translesion synthesis DNA polymerase genes -> mutagenesis 
+
+Translesion: Allows replication past site of damage Mutagenesis: DNA is changes
+
+## DNA damage checkpoints in eukaryotes
+1. G1 Checkpoint: If there are DSBs, entry into S phase is blocked
+2. Intra-S Checkpoint: If there are problem replication forks in early S then late origins aren't fired
+3. G2 Checkpoint: If there's ssDNA in G2, entry into mitosis is blocked
+
+### G2 in yeast
+1. Mec1 kinase binds to ssDNA and phosphorylates Rad9 bound to histones at damage site
+2. Rad53 kinase binds phosphorylated Rad9 and undergoes transautophosphorylation (autocatalysis, phosphorylates other Rad53) and additional phosphorylation by Mec1
+3. Phosphorylated Rad53 kinase blocks mitosis and stimulates DNA repair by phosphorylating other proteins
+
+> When highly phosphorylated, Rad53 kinase becomes active and phosphorylates a whole set of proteins, but contributes to two pathways (preventing mitosis and accelerating repair)
+
+## Lecture 8: Genetic Code
+
