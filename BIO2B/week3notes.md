@@ -96,4 +96,31 @@ Translesion: Allows replication past site of damage Mutagenesis: DNA is changes
 > When highly phosphorylated, Rad53 kinase becomes active and phosphorylates a whole set of proteins, but contributes to two pathways (preventing mitosis and accelerating repair)
 
 ## Lecture 8: Genetic Code
+Amino acid codons were found through brute forcing with synthetic RNA and cell-free E.coli
+
+Triplet binding assay:
+* Synthetic RNA + Ribosome subunits
+* Aminoacyl tRNA + amino acid attached
+* Theoretically would produce a complete ribosome
+* C14 used to check for radiation
+
+Wobble:
+* Wobble of anticodon 5' base allows flexibility in base pairing
+* Multiple bases could pair due to wobble
+
+### Mutations
+Point mutations:
+1. Single base substitution
+    1. Silent mutation - same amino acid, different codon
+    2. Neutral mutation - different amino acid, same protein function
+    3. Missense mutation - different amino acid, nonfunctional protein
+    4. Nonsense mutation - stop codon
+2. Frame shift 
+    1. Insertion - shifts whole sequence
+    2. Deletion - same idea
+3. Revertant - mutation cancels out previous mutation
+4. Pseudo-revertant - second mutation suppresses the first
+    1. Intragenic suppressors - suppresses frameshift
+    2. Intergenic suppressors - suppresses nonsense
+
 
