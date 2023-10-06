@@ -123,4 +123,63 @@ Point mutations:
     1. Intragenic suppressors - suppresses frameshift
     2. Intergenic suppressors - suppresses nonsense
 
+## Mitosis
+* Ploidy maintained
+* 10% cell cycle
+* Highly regulated
+
+Protein **condensin** mediate the packaging of uncondensed chromatin into individual chromosomes.
+
+Condensin binds to 2 locations on the DNA, and folds the chromatin between them.
+
+![Condensin](condensin.png)
+
+Creates sort of a murakami flower pattern or a 菊花酥 pattern due to the pinching of DNA. The stacking process is **oligomerisation** and creates the helical arrangements that end up as chromosomes.
+
+### Karyotype
+Picture of the complete set of chromosomes grouped in homologous pairs and arranged in order of decreasing size.
+
+Organism specific.
+
+### Chromosomal Regions
+Euchromatin: Coding, non-condensed, gene-rich
+Heterochromatin: Non-coding, highly condensed, gene-poor
+
+Kinetochore: protein assembly that links chromosomes with microtubules of the spindle
+
+Nucleosomes in the centromere region contain a specific histone called **CENP-A**, which recruits kinetochore components to this region.
+
+**Cohesin**: protein that holds sister chromatids together after DNA replication. Either ring containing both, or handcuffs >\_<. 
+
+They're originally zipped up, but as mitosis progresses, cohesin is removed from the arms, and thus separates the sister chromatids.
+
+![Cohesin](cohesin.png)
+
+## Meiosis
+* Only occurs in germ cells
+* Germline segregated early on from rest of somatic cell in animal
+* Mutations here cannot be inherited
+* Chromosome number halves
+
+### Pairing and separation
+* Pairing mechanism isn't fully resolved
+* Programmed DNA double-strand breaks at beginning of meiosis
+* Non-sister chromatid used as repair sequence, homologous chromosomes brought closer together
+
+(Repairing DNA breaks)
+
+**Synaptonemal complex** is formed after the two chromosomes join together .
+
+An array of different proteins join the two chromosomes together and stabilize the structure. 
+
+Once the DNA break is repaired the synaptonemal complex is dissasembled and all of it occurs in prophase 1
+
+The two chromosomes are held together by crossovers after the event.
+
+### Crossovers
+* Reciprocal exchanges of chromosomal segments. One of the possible outcomes of DSB repair
+* Chiasmata
+* Proper segregation of homologous chromosomes require at least one crossover
+
+
 
