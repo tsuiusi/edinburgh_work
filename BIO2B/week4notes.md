@@ -51,54 +51,15 @@ Centromere and Non-Centromere Cohesin: Only difference is them holding different
 
 Separase separates cohesein.
 
-## Recombination (pt 2)
-Types:
-1. Homologous
-2. Site specific
-3. Illegitimate
- The broken chromosomes are forced to find homologues as they need to repair themselves.
-
-Centromere and Non-Centromere Cohesin: Only difference is them holding different things together.
-
-Separase separates cohesein.
-
-## Recombination (pt 2)
-Types:
-1. Homologous
-2. Site specific
-3. Illegitimate The broken chromosomes are forced to find homologues as they need to repair themselves.
-
-Centromere and Non-Centromere Cohesin: Only difference is them holding different things together.
-
-Separase separates cohesein.
-
-## Recombination (pt 2)
-Types:
-1. Homologous
-2. Site specific
-3. Illegitimate The broken chromosomes are forced to find homologues as they need to repair themselves.
-
-Centromere and Non-Centromere Cohesin: Only difference is them holding different things together.
-
-Separase separates cohesein.
-
-## Recombination (pt 2)
-Types:
-1. Homologous
-2. Site specific
-3. Illegitimate The broken chromosomes are forced to find homologues as they need to repair themselves.
-
-Centromere and Non-Centromere Cohesin: Only difference is them holding different things together.
-
-Separase separates cohesein.
-Homology: similarity in DNA sequence
-
-## Recombination (pt 2)
+## Recombination (pt 2
 Types: Needs:
 1. Homologous: Extended homology
 2. Site specific: Limited homology
 3. Illegitimate: No homology
 4. Transposition: No Homology
+
+Separase separates cohesein.
+Homology: similarity in DNA sequence
 
 ### Illegitimate (HIV)
 1. GP120 -> CD4
