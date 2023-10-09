@@ -51,7 +51,7 @@ Centromere and Non-Centromere Cohesin: Only difference is them holding different
 
 Separase separates cohesein.
 
-## Recombination (pt 2
+## Recombination (pt 2)
 Types: Needs:
 1. Homologous: Extended homology
 2. Site specific: Limited homology
