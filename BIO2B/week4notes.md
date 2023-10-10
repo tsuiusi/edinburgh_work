@@ -79,4 +79,4 @@ Phage has specific site **attP** and E.coli have **attB** (attach phage/bacteria
 
 Enzyme splits each DNA strand in half and binds the opposite ends to each other.
 
-
+Autosomes: everything that's not a sex chromosome
