@@ -5,6 +5,7 @@ import Data.List
 import Test.QuickCheck
 
 
+
 -- 1. inRange
 
 inRange :: Int -> Int -> [Int] -> [Int]
@@ -13,12 +14,15 @@ inRange lo hi xs = [x | x <- xs, x >= lo, x <= hi]
 -- 2. multDigits
 
 multDigits :: String -> Int
-multDigits str = let number = (map digitToInt (filter isDigit str)) in if null number then 1 else product number
+multDigits str = product [ digitToInt x | x <- str, isDigit x]
+    
+    -- let number = (map digitToInt (filter isDigit str)) in if null number then 1 else product number
 
 -- made with the help of GPT4 - finding the functions, understanding what they did, debugging, doing the if statement part
 
 countDigits :: String -> Int
-countDigits str = length (filter isDigit str)
+countDigits str = length [ x | x <- str, isDigit x]
+    -- length (filter isDigit str)
 
 prop_multDigits :: String -> Bool
 prop_multDigits str = 9^(countDigits str) >= multDigits str
@@ -28,8 +32,12 @@ test_prop_multDigits = quickCheck prop_multDigits
 
 -- 3. capitalise and title
 
+
+
 capitalise :: String -> String
-capitalise word = toUpper (head word) : map toLower (tail word)
+-- capitalise word = [if i == 0 then toUpper c else toLower c | (i, c) <- zip [0..] word]
+capitalise (x:xs) = toUpper x : map toLower xs 
+    -- toUpper (head word) : map toLower (tail word)
 -- GPT4 help to find the function 'head'
 
 title :: [String] -> [String]
