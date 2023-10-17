@@ -80,3 +80,40 @@ Phage has specific site **attP** and E.coli have **attB** (attach phage/bacteria
 Enzyme splits each DNA strand in half and binds the opposite ends to each other.
 
 Autosomes: everything that's not a sex chromosome
+
+## Genetic Interactions
+### Allelic Interaction:
+* Dominance
+* Codominance
+* Incomplete dominance
+
+Dominance can relate to the amount of protein produced by a gene - **dosage**
+
+Haploinsufficiency: One gene copy does not produce sufficient protein
+Haplosufficiency: One gene produces sufficient protein
+
+The gene that produces more protein will be dominant.
+
+**Dominant Negative**: Protein made by mutated allele interferes with WT allele, compromising activity. Often found in situations where multimeric proteins control a particular phenotype.
+
+**Lethal Allele**: Gene that affects essential genes. Usually dies in embryo.
+
+Allelic Series: a collection of variants in which increasingly deleterious mutations lead to increasingly large phenotypic effects
+
+### Non-Allelic Interactions:
+E.g corn snakes - pigmentation is controlled by separate genes (i.e orange has orange, black has black)
+
+Homo Orange and Homo Black will produce camo skin as the alleles produce insufficient pigment for both.
+
+**Epistasis**: One gene is masked by another
+* Interaction at phenotypic level
+* Masking = epistatic, masked = hypostatic
+
+Recessive epistasis: recessive phenotype overrides the others due to enzyme production and such
+
+Dominant epistasis: protein produced by dominant allele inhibits pathway from progressing
+
+Complementary gene action: phenotype is determined by combined action of two genes
+* Enzymes within same biochemcial pathway, but no intermediate compound = no phenotype
+
+
