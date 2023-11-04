@@ -1,9 +1,9 @@
 module Tutorial4 where
 
 import Data.Char (isUpper, isLetter)
-import Data.List (zipWith)
+import Data.List (zipWith, transpose)
 import Test.QuickCheck
-import Data.Ratio
+import Data.Ratio (numerator)
 
 
 -- 1. doubles
@@ -114,9 +114,8 @@ plusM :: Matrix -> Matrix -> Matrix
 plusM m1 m2 = zipWith (zipWith (+)) m1 m2
 
 -- 7.
-timesM :: Matrix -> Matrix -> Matrix
+timesM :: [[Int]] -> [[Int]] -> [[Int]] -- use int instead to make the results normal and not rational numbers Matrix -> Matrix -> Matrix
 timesM m1 m2 = [[sum $ zipWith (*) row col | col <- transpose m2] | row <- m1]
-
 
 -- ** Challenge
 
