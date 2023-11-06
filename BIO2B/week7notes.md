@@ -42,4 +42,13 @@ Assumptions:
 5. Infinite population size
 6. No selection pressure
 
+**Lecture Notes Oct 30** 
+------------------------------
+Almost all genetic variation comes from mutation.
+
+Some certain SNP mutations occur at a much higher frequency than others, and C>T occurs at the highest frequency. They occur in sites of regulation (methylation C makes it much easier to be deaminated to T).
+
+Mutations are random WRT the effect they have on the organism. It's a balanced gacha roll with both buffs and debuffs, and the rate of mutations increase under selection pressures/effects of mutations are exacerbated by the selection pressure (ask).
+
+
 
