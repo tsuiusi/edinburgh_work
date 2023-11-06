@@ -87,6 +87,28 @@ Altruism will evolve if:
 > relatedness * benefit to recipient > cost to donor
 
 
+## Life History
+The framework that examines the distribution of major events over the lifetime of an individual.
+
+Always negative relationship between time and survival.
+
+### Senescence
+Deleterious mutations:
+
+|D1| Young|
+|D2| Old|
+|D3| Young and old|
+
+D3 will be strongly selected against, then 2, then 1
+
+Antagonistic pleiotropy: deleterious mutations that affect older individuals stack in populations
+
+(Pleiotropy is when a single gene influences multiple seemingly unrelated phenotypic traits)
+
+|Mutation accumulation theory|No effect on young, only old|
+|Antagonistic pleiotropy|Positive effect on young, negative on old|
+
+Tradeoff.
 
 
 
