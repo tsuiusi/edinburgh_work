@@ -110,5 +110,21 @@ Antagonistic pleiotropy: deleterious mutations that affect older individuals sta
 
 Tradeoff.
 
+Tradeoffs are the central tenet of life history theory.
+* All activities require energy
+* Resources are limited
+* Resources allocated to one trait cannot be allocated in another
+
+### Reproduction
+
+Semelparous: reproduce once then die (salmon,mayflies)
+
+Iteroparous: reproduces multiple times over lifetime (most animals)
+
+Tradeoffs determining whether an organism is s or i:
+* Juvenile survival v adult survival
+* Consistency of juvenile environment
+
+Better to have better risk management in unpredictable environments and be iteroparous.
 
 
