@@ -127,4 +127,48 @@ Tradeoffs determining whether an organism is s or i:
 
 Better to have better risk management in unpredictable environments and be iteroparous.
 
+## Red Queen
+### Interspecies interactions
+
+**Predation**
+* True predation
+* Grazing
+* Parasitism
+
+The whole or partial consumption of one organism by another where the former is alive when attacked.
+
+**Competition**
+
+An interaction between organisms or species where both sides are harmed. 
+
+**Mutualism**
+
+Organisms of different species interact for mutual benefits, often through the exchange of goods and services.
+
+
+**Coevolution** 
+
+The change of genetic competition of one species in response to another. (e.g fig wasps and figs)
+
+Occurs when there are tight (specific) ecological relationships between two organisms; reciprical natural selection, important ecological relationships may evolve.
+
+Can be mutualistic or antagonistic.
+
+### Mutualism
+* Different organisms interact with benefits
+* Exchange
+* Isn't selfless, not without cost, but positive effect for both
+* Is not conflict free
+
+Seed dispersal is a good example:
+* Fig wasps are very specific to the species of fig
+
+
+### Antagonism
+Can lead to arms race and cycles, where they one species chases another (e.g daphnia and parasites, orange-throated lizards but with different species)
+
+Red queen effect - 逆流而上
+
+African plains mammals are selected to become faster and faster for just this reason.
+
 
